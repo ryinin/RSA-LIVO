@@ -1,5 +1,5 @@
-# LIVO
-LIVO
+# RSA-LIVO
+RSA-LIVO
 Authors: 
 Status: Under Review
 
