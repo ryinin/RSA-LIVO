@@ -10,7 +10,7 @@ Status: Under Review
 # System Architecture
 
 # Repository Status
-Welcome to the official repository for LIVO.
+Welcome to the official repository for RSA-LIVO.
 
 Currently, the manuscript is under the final review process. To comply with the our lab's policies, the full source code, dataset configurations, and detailed run instructions are temporarily withheld until acceptance and publish.
 
