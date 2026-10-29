@@ -20,7 +20,8 @@ The released version will be tagged to correspond to the accepted manuscript.
 
 ## Overview
 
-[framework.pdf](https://github.com/user-attachments/files/34133710/framework.pdf)
+[framework.png]<img width="1916" height="1080" alt="a9caa0f3-51b9-442d-8375-7546c8c22a2a" src="https://github.com/user-attachments/assets/f9c28f0d-c967-4a2c-a79f-84951b203734" />
+
 
 RSA-LIVO is a semantic-aided LiDAR-inertial-visual odometry framework built on the error-state iterated Kalman filter (ESIKF) of FAST-LIVO2. It represents scene-dependent observation reliability explicitly in the measurement covariance of the LiDAR point-to-plane observations.
 
